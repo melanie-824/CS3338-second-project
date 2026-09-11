@@ -1,0 +1,58 @@
+commit 140715f22f5fd40a2c6dc53fea5f98924e896ccb
+Merge: dd8e70e 4a774f1
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Thu Sep 10 22:44:47 2026 -0700
+
+    Resolving the merge conflicts
+
+commit dd8e70e984207e74fb86f1887614d23289fedb36
+Merge: a1cdf3c 6475ed7
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Thu Sep 10 19:53:57 2026 -0700
+
+    Resolved merge conflicts
+
+commit 6475ed77e615b3bb9259f949ef19fb0180c1af6f
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Thu Sep 10 19:48:33 2026 -0700
+
+    Added favorite movie to index.html
+
+commit a1cdf3c1ae3e75c29487074ffd14a036c21581a7
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Thu Sep 10 19:26:04 2026 -0700
+
+    Added favorite food to index.html
+
+commit 4a774f101a7351a9eb5aaab26cf559c63c6d5b95
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Thu Sep 10 17:25:41 2026 -0700
+
+    Create README.md
+
+commit 8546bab8bda894225c844537910f0ae7e44c19bb
+Merge: 1d2bfc0 a61765c
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Thu Sep 10 17:17:44 2026 -0700
+
+    Merge pull request #1 from melanie-824/info-fill
+    
+    Fill in index.html blank information
+
+commit a61765c11ec481386a485fc7316765f4d7138eb4
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Thu Sep 10 15:46:44 2026 -0700
+
+    Fill in index.html blank information
+
+commit 716602639de21c9c310a094a1cb2bd88e42e91a0
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Thu Sep 10 15:46:44 2026 -0700
+
+    Fill in index.html blank information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
